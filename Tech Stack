@@ -1,1 +1,8 @@
+ Tech Stack
 
+1) LLMs: GPT-based reasoning models
+2) Frameworks: LangChain / LangGraph
+3) Automation: n8n
+4) Parsing: PDF text extraction
+5) Data Handling: Structured outputs, Google Sheets integration
+6) Deployment: Local workflow execution (Docker-ready)
