@@ -1,8 +1,10 @@
-Overview
+# Overview
 
 This project implements a production-style AI resume screening pipeline that automatically ingests resumes and job descriptions, extracts structured information, and uses LLM reasoning agents to evaluate candidate suitability.
 
- System Architecture
+---
+
+#  System Architecture
  
 1) Resume intake (email/upload trigger)
 2) File validation & format detection
@@ -13,7 +15,9 @@ This project implements a production-style AI resume screening pipeline that aut
 7) Information extraction & scoring
 8) Persisting structured results (Sheets / DB)
 
-Core Features
+---
+
+# Core Features
 
 1) Automated resume parsing
 2) Job-resume semantic comparison
@@ -22,9 +26,13 @@ Core Features
 5) Workflow orchestration
 6) Modular & extensible design
 
- Use Cases
+---
+
+#  Use Cases
  
 1) Resume screening
 2) Candidate-job matching
 3) Recruiter decision support
 4) HR automation systems
+
+---
